@@ -86,8 +86,13 @@ main {
 
 }
 
+h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
 .card p{
     opacity: 0.5;
+    margin-top: 6px;
 }
 
 #supervisor {
